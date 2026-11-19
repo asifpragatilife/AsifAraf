@@ -1,0 +1,6 @@
+{
+  "name": "AsifAraf",
+  "description": "Privacy-first offline document scanner, OCR engine, PDF toolkit, QR hub, and AES-256 encrypted Obsidian Vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
